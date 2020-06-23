@@ -1457,11 +1457,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BlazorGitHub\\BlazorTest\\BlazorTest.csproj",
+      "projectUniqueName": "D:\\Git\\BlazorTest\\BlazorTest.csproj",
       "projectName": "BlazorTest",
-      "projectPath": "D:\\BlazorGitHub\\BlazorTest\\BlazorTest.csproj",
+      "projectPath": "D:\\Git\\BlazorTest\\BlazorTest.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\BlazorGitHub\\BlazorTest\\obj\\",
+      "outputPath": "D:\\Git\\BlazorTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
